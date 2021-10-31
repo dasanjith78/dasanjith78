@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--[![prineth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prineth)](https://github.com/prineth/github-readme-stats) -->
-<iframe src="https://giphy.com/embed/SA5IWJfBbNCgLpqKjl" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pentanet-wireless-fixed-nbn-SA5IWJfBbNCgLpqKjl">via GIPHY</a></p>
+<<img align="left" alt="GIF" width="250px" src="https://media.giphy.com/media/SA5IWJfBbNCgLpqKjl/giphy.gif" />
 
 <!--
 **prineth/Prineth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
