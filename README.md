@@ -44,7 +44,7 @@ Here are some ideas to get you started:  -->
 
 
 <a href="https://github.com/dasanjith78">
-  <img src="https://img.shields.io/github/followers/prineth?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/followers/dasanjith78?label=Follow&style=social" />
 </a>
 
 <br>
