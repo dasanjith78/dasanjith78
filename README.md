@@ -26,8 +26,8 @@ Here are some ideas to get you started:  -->
 
 <br>
 
-<a href="mailto:prinethfernandox@gmail.com">
-  <img src="https://img.shields.io/badge/-fprineth@gamil.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prinethfernandox@gmail.com" />
+<a href="mailto:kdgunaratne99@gmail.com">
+  <img src="https://img.shields.io/badge/-dasanjith78@gamil.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prinethfernandox@gmail.com" />
 </a>
 
 <br>
