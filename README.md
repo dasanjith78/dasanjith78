@@ -50,10 +50,10 @@ Here are some ideas to get you started:  -->
 <br>
 
 
- <a href="https://github.com/prineth/github-profile-views-counter">
+ <a href="https://github.com/dasanjith78/github-profile-views-counter">
     <img
       align="center"
-      src="https://komarev.com/ghpvc/?username=prineth&color=blueviolet&label=PROFILE+VIEWS" />
+      src="https://komarev.com/ghpvc/?username=dasanjith78&color=blueviolet&label=PROFILE+VIEWS" />
   </a><br>
 
 
