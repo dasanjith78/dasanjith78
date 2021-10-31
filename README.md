@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--
 Here are some ideas to get you started:  -->
 <a href="https://www.linkedin.com/in/dasanjith-gunaratne-7169731b2/">
-  <img src="https://img.shields.io/badge/-prineth_fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prineth_fernando-630155147/" />
+  <img src="https://img.shields.io/badge/-Dasanjith Gunaratne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prineth_fernando-630155147/" />
 </a>
 
 <br>
