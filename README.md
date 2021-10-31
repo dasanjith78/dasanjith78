@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--[![prineth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prineth)](https://github.com/prineth/github-readme-stats) -->
-<<img align="left" alt="GIF" width="250px" src="https://media.giphy.com/media/SA5IWJfBbNCgLpqKjl/giphy.gif" />
+<img align="left" alt="GIF" width="250px" src="https://media.giphy.com/media/SA5IWJfBbNCgLpqKjl/giphy.gif" />
 
 <!--
 **prineth/Prineth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
