@@ -33,7 +33,7 @@ Here are some ideas to get you started:  -->
 <br>
 
 <a href="https://dev.to/dasanjith78">
-  <img src="https://img.shields.io/badge/DEV.to-prineth-black" />
+  <img src="https://img.shields.io/badge/DEV.to-dasanjith78-black" />
 </a>
 
 <br>
